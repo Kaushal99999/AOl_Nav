@@ -1,0 +1,25 @@
+[
+  {
+    "str": "\n  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Source+Sans+Pro:ital,wght@0,600;1,700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "italic",
+          "fontWeight": 700
+        },
+        {
+          "fontFamily": "Source Sans Pro",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        }
+      ]
+    }
+  }
+]
